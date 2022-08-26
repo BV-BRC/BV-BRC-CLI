@@ -1,4 +1,4 @@
-# PATRIC Command Line Interface
+# BV-BRC Command Line Interface
 
 The [BV-BRC](https://www.bv-brc.org) is an integration of different types
 of data and software tools that support research on bacterial
