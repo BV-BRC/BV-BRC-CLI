@@ -1,0 +1,56 @@
+Workspace
+
+
+app_service
+Application execution service.
+
+
+genome_annotation
+
+
+p3_auth
+authentication
+
+
+p3_cli
+PATRIC command line interface scripts
+
+
+p3_code
+SEEDtk Fragment Shared with PATRIC
+
+
+p3_core
+Core library modules & scripts for PATRIC API integration
+
+
+p3_deployment
+Deployment tools for PATRIC.
+
+
+sars2_assembly
+
+
+seed_core
+Core code exported from SEED CVS.
+
+
+seed_gjo
+Gary Olsen code exported from SEED CVS
+
+
+seed_rast
+RAST related code exported from SEED CVS
+
+
+seed_svr
+
+
+typecomp
+PATRIC Type Compiler
+
+
+dev_container
+build and deployment environment
+
+
