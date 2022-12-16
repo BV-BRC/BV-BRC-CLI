@@ -18,7 +18,7 @@ Windows and Debian/Ubuntu and CentOS Linux.
 
 The PATRIC CLI tutorial is [available here](https://www.bv-brc.org/docs/cli_tutorial/index.html).
 
-If you need a basic Linux tutorial, you can [find one here](https://static-bcrf.biochem.wisc.edu/tutorials/unix/survival_command/Survival_Command-line.html).
+If you need a basic command line tutorial, you can [find one here](https://static-bcrf.biochem.wisc.edu/tutorials/unix/survival_command/Survival_Command-line.html).
 
 Please note: If you run into permission problems starting the BV-BRC
 app on your Mac, you can still use the CLI. The BV-BRC app is a little
