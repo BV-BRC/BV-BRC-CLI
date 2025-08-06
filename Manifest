@@ -4,7 +4,7 @@ genome_annotation	efd7512eb7e8658eb000072ad07530ad0fa851aa	TheSEED/genome_annota
 p3_auth	92f4baddebcfb2ec5bdb33625f63c59146b6076a	BV-BRC/p3_auth	master	https://github.com/BV-BRC/p3_auth/tree/master	olsonanl	2024-06-28T21:19:12Z	sychan:221 MrCreosote:52 olsonanl:45 briehl:21 shreddd:7 wilke:6 sjyoo:6 msneddon:5 indiagordon:3 landml:2 nlharris:2 kkellerlbl:1 rdolson:1
 p3_cli	e28aa097cdb2791d4a2d2e0d6fd742e32f1e0941	BV-BRC/p3_cli	master	https://github.com/BV-BRC/p3_cli/tree/master	olsonanl	2025-08-05T16:41:51Z	bparrello:59 olsonanl:27 chmao1:2
 p3_code	100bec8d9fcd4d0ad2765b77a038c8cc67fdb125	BV-BRC/p3_code	master	https://github.com/BV-BRC/p3_code/tree/master	olsonanl	2025-07-17T22:43:29Z	bparrello:87 olsonanl:26
-p3_core	af437528ced4432168cab95af78cd442b5834412	BV-BRC/p3_core	master	https://github.com/BV-BRC/p3_core/tree/master	Robert Olson	2025-05-07T17:39:36Z	olsonanl:74 bparrello:24 JacobPorter:3
+p3_core	e6aed994a30ee0dd72784118c164ebe3ff2124a0	BV-BRC/p3_core	master	https://github.com/BV-BRC/p3_core/tree/master	olsonanl	2025-08-06T20:32:44Z	olsonanl:75 bparrello:39 JacobPorter:3
 p3_deployment	2ce3b74fa1f6b069da9c8c7302069deadbcae7ed	BV-BRC/p3_deployment	master	https://github.com/BV-BRC/p3_deployment/tree/master	olsonanl	2024-06-28T21:29:48Z	olsonanl:6
 sars2_assembly	ec960070980750c9ca9d86b857634bfb5b5d5e03	BV-BRC/sars2_assembly	master	https://github.com/BV-BRC/sars2_assembly/tree/master	olsonanl	2024-06-28T22:29:40Z	olsonanl:106 aswarren:2 nicolegobo:1
 seed_core	dac0e28ba05316717449743763905b81298caa5b	theseed/seed_core	master	https://github.com/TheSEED/seed_core/tree/master	Robert Olson	2024-06-28T19:35:26Z	olsonanl:9 hackbob:1
